@@ -1,0 +1,395 @@
+[2024-07-31 16:36:32] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:36:32] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:37:46] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:37:46] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:39:02] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:39:02] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:39:12] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:39:12] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:40:02] codecanyon.INFO: Sending offer email to candidate. {"application_id":63,"candidate_id":233} 
+[2024-07-31 16:40:02] codecanyon.INFO: Fetched job application for user ID: 63 with Candidate ID: 233  
+[2024-07-31 16:40:02] codecanyon.INFO: Found candidate with ID: 233  
+[2024-07-31 16:40:05] codecanyon.INFO: Sent job offer email for job application ID: 63  
+[2024-07-31 16:40:05] codecanyon.INFO: Recorded candidate history for candidate ID: 233  
+[2024-07-31 16:40:05] codecanyon.INFO: Updated candidate status to 15 for candidate ID: 233  
+[2024-07-31 16:40:10] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:40:10] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:41:38] codecanyon.INFO: Received request data:  {"offer_code":"AguEDjYo0ia1vO8nMU","type":"accept"} 
+[2024-07-31 16:41:38] codecanyon.INFO: Searching for Onboard with offer_code: AguEDjYo0ia1vO8nMU  
+[2024-07-31 16:41:38] codecanyon.INFO: Updated and saved offer and job application records  
+[2024-07-31 16:41:38] codecanyon.INFO: JobRecruitment found: 50  
+[2024-07-31 16:41:41] codecanyon.INFO: Sent job offer accepted notification to admins  
+[2024-07-31 16:45:08] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:45:08] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:45:27] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:45:27] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:45:33] codecanyon.INFO: Sending offer email to candidate. {"application_id":63,"candidate_id":233} 
+[2024-07-31 16:45:33] codecanyon.INFO: Fetched job application for user ID: 63 with Candidate ID: 233  
+[2024-07-31 16:45:33] codecanyon.INFO: Found candidate with ID: 233  
+[2024-07-31 16:45:37] codecanyon.INFO: Sent job offer email for job application ID: 63  
+[2024-07-31 16:45:37] codecanyon.INFO: Recorded candidate history for candidate ID: 233  
+[2024-07-31 16:45:37] codecanyon.INFO: Updated candidate status to 15 for candidate ID: 233  
+[2024-07-31 16:45:42] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 16:45:42] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 16:46:20] codecanyon.INFO: Received request data:  {"offer_code":"8KmPpmSqM8wVAYCIVp","type":"accept"} 
+[2024-07-31 16:46:20] codecanyon.INFO: Searching for Onboard with offer_code: 8KmPpmSqM8wVAYCIVp  
+[2024-07-31 16:46:20] codecanyon.INFO: Updated and saved offer and job application records  
+[2024-07-31 16:46:20] codecanyon.INFO: JobRecruitment found: 50  
+[2024-07-31 16:46:24] codecanyon.INFO: Sent job offer accepted notification to admins  
+[2024-07-31 17:21:02] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 17:21:02] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 17:21:44] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 17:21:44] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 17:21:48] codecanyon.INFO: Sending offer email to candidate. {"application_id":63,"candidate_id":233} 
+[2024-07-31 17:21:48] codecanyon.INFO: Fetched job application for user ID: 63 with Candidate ID: 233  
+[2024-07-31 17:21:48] codecanyon.INFO: Found candidate with ID: 233  
+[2024-07-31 17:21:52] codecanyon.INFO: Sent job offer email for job application ID: 63  
+[2024-07-31 17:21:52] codecanyon.INFO: Recorded candidate history for candidate ID: 233  
+[2024-07-31 17:21:52] codecanyon.INFO: Updated candidate status to 15 for candidate ID: 233  
+[2024-07-31 17:21:58] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 17:21:58] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 17:22:20] codecanyon.INFO: Received request data:  {"offer_code":"Zhf863knccKoXAtmzg","type":"accept"} 
+[2024-07-31 17:22:20] codecanyon.INFO: Searching for Onboard with offer_code: Zhf863knccKoXAtmzg  
+[2024-07-31 17:22:20] codecanyon.INFO: Updated and saved offer and job application records  
+[2024-07-31 17:22:20] codecanyon.ERROR: Error in saveOffer: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MRFId' in 'where clause' (SQL: select * from `jobrecruitments` where `MRFId` = 50 limit 1)  
+[2024-07-31 17:24:24] codecanyon.INFO: Received request data:  {"offer_code":"Zhf863knccKoXAtmzg","type":"accept"} 
+[2024-07-31 17:24:24] codecanyon.INFO: Searching for Onboard with offer_code: Zhf863knccKoXAtmzg  
+[2024-07-31 17:24:24] codecanyon.INFO: Updated and saved offer and job application records  
+[2024-07-31 17:24:24] codecanyon.INFO: JobRecruitment found: 50  
+[2024-07-31 17:24:28] codecanyon.INFO: Sent job offer accepted notification to admins  
+[2024-07-31 17:26:06] codecanyon.INFO: Starting MRF approval process {"encrypted_id":"eyJpdiI6Im1iTmRqVFo4ZjgzeDhieTJieVlUcFE9PSIsInZhbHVlIjoiSDJ1NDcxZ1R5YmUxSE5qSkpFL2xNUT09IiwibWFjIjoiNDJjZjdlYTJhMGUwZTZkZGRkOGQ0Yjc1MDc4ZjNmMjFjZTU0YTQ0ZmE1MDAxMjI3YmY2ZDQxMzc2NGMwMDdhMCIsInRhZyI6IiJ9"} 
+[2024-07-31 17:26:06] codecanyon.INFO: Decrypted ID {"decrypted_id":"50"} 
+[2024-07-31 17:26:06] codecanyon.INFO: JobRecruitment found {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-07-31 17:26:06] codecanyon.WARNING: MRF already approved {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-07-31 17:27:10] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 17:27:10] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 17:27:20] codecanyon.INFO: Sending offer email to candidate. {"application_id":63,"candidate_id":233} 
+[2024-07-31 17:27:20] codecanyon.INFO: Fetched job application for user ID: 63 with Candidate ID: 233  
+[2024-07-31 17:27:20] codecanyon.INFO: Found candidate with ID: 233  
+[2024-07-31 17:27:23] codecanyon.INFO: Sent job offer email for job application ID: 63  
+[2024-07-31 17:27:23] codecanyon.INFO: Recorded candidate history for candidate ID: 233  
+[2024-07-31 17:27:23] codecanyon.INFO: Updated candidate status to 15 for candidate ID: 233  
+[2024-07-31 17:27:28] codecanyon.INFO: Fetching offer letter list...  
+[2024-07-31 17:27:28] codecanyon.INFO: Offer letter list retrieved successfully  
+[2024-07-31 17:28:02] codecanyon.INFO: Received request data:  {"offer_code":"w2rHOTcHBX60CFFck8","type":"rejected","reason":"paisa bahot kam hai .!!!!"} 
+[2024-07-31 17:28:02] codecanyon.INFO: Searching for Onboard with offer_code: w2rHOTcHBX60CFFck8  
+[2024-07-31 17:28:02] codecanyon.INFO: Updated and saved offer and job application records  
+[2024-07-31 17:28:02] codecanyon.INFO: JobRecruitment found: 50  
+[2024-07-31 17:28:06] codecanyon.INFO: Sent job offer rejected notification to admins  
+[2024-08-01 10:12:07] codecanyon.INFO: Api payload: eyJpdiI6IkRSVkVtcHFFTUJXcG1ocUhYc3VVT2c9PSIsInZhbHVlIjoiZFhqbU1HOWVCUm9GK3l1K0lhWTJrQT09IiwibWFjIjoiMTlhZGU5YTI1OGRlNDQ0YmU3Yzc4OGI2ZTZhOWM1ZTNmYzYxN2U1YWYzZWFlOGNlZTUwYmVlNzZjZTA2NmNmZiIsInRhZyI6IiJ9  
+[2024-08-01 10:12:07] codecanyon.INFO: method calling233  
+[2024-08-01 10:12:07] codecanyon.INFO: Decrypted Candidate ID: 233  
+[2024-08-01 10:12:07] codecanyon.INFO: Decrypted Action: Accept  
+[2024-08-01 10:12:13] codecanyon.INFO: Starting MRF approval process {"encrypted_id":"eyJpdiI6Im1iTmRqVFo4ZjgzeDhieTJieVlUcFE9PSIsInZhbHVlIjoiSDJ1NDcxZ1R5YmUxSE5qSkpFL2xNUT09IiwibWFjIjoiNDJjZjdlYTJhMGUwZTZkZGRkOGQ0Yjc1MDc4ZjNmMjFjZTU0YTQ0ZmE1MDAxMjI3YmY2ZDQxMzc2NGMwMDdhMCIsInRhZyI6IiJ9"} 
+[2024-08-01 10:12:13] codecanyon.INFO: Decrypted ID {"decrypted_id":"50"} 
+[2024-08-01 10:12:13] codecanyon.INFO: JobRecruitment found {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-08-01 10:12:13] codecanyon.WARNING: MRF already approved {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-08-01 15:02:54] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-08-01 15:02:54] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-08-01 15:02:54] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":1,"name":"Information Technology"},{"id":2,"name":"Marketing"},{"id":3,"name":"Cloud Technology"},{"id":4,"name":"Network"},{"id":6,"name":"IT"}]}} 
+[2024-08-01 15:02:54] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-08-01 15:03:02] codecanyon.INFO: Fetching all qualifications from the database.  
+[2024-08-01 15:03:02] codecanyon.INFO: Qualifications retrieved successfully. {"count":4} 
+[2024-08-01 15:04:37] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"234"} 
+[2024-08-01 15:04:37] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"234"} 
+[2024-08-01 15:04:37] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"234"} 
+[2024-08-01 15:28:52] codecanyon.INFO: Fetching all qualifications from the database.  
+[2024-08-01 15:28:52] codecanyon.INFO: Qualifications retrieved successfully. {"count":4} 
+[2024-08-01 15:42:51] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"235"} 
+[2024-08-01 15:42:51] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"235"} 
+[2024-08-01 15:42:51] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"235"} 
+[2024-08-01 15:43:01] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"236"} 
+[2024-08-01 15:43:01] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"236"} 
+[2024-08-01 15:43:01] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"236"} 
+[2024-08-01 15:49:16] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"237"} 
+[2024-08-01 15:49:16] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"237"} 
+[2024-08-01 15:49:16] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"237"} 
+[2024-08-01 15:55:47] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"240"} 
+[2024-08-01 15:55:47] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"240"} 
+[2024-08-01 15:55:47] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"240"} 
+[2024-08-01 16:12:19] codecanyon.INFO: Attempting to fetch candidate data {"CandidateId":"240"} 
+[2024-08-01 16:12:19] codecanyon.INFO: Candidate data retrieved successfully {"CandidateId":"240"} 
+[2024-08-01 16:12:19] codecanyon.INFO: Candidate data transformation completed {"CandidateId":"240"} 
+[2024-08-02 18:24:19] codecanyon.INFO: Starting MRF approval process {"encrypted_id":"eyJpdiI6Im1iTmRqVFo4ZjgzeDhieTJieVlUcFE9PSIsInZhbHVlIjoiSDJ1NDcxZ1R5YmUxSE5qSkpFL2xNUT09IiwibWFjIjoiNDJjZjdlYTJhMGUwZTZkZGRkOGQ0Yjc1MDc4ZjNmMjFjZTU0YTQ0ZmE1MDAxMjI3YmY2ZDQxMzc2NGMwMDdhMCIsInRhZyI6IiJ9"} 
+[2024-08-02 18:24:19] codecanyon.INFO: Decrypted ID {"decrypted_id":"50"} 
+[2024-08-02 18:24:19] codecanyon.INFO: JobRecruitment found {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-08-02 18:24:19] codecanyon.WARNING: MRF already approved {"jobRecruitment":{"App\\Jobrecruitment":{"id":50,"job_id":46,"category_id":3,"qualification_id":3,"degination":"Developers","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12344","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-07-31T10:33:59.000000Z","updated_at":"2024-07-31T10:34:41.000000Z","location":"noida","start_date":"2024-08-07","end_date":"2024-07-17","jd_id":1,"total_experience":12,"total_positions":12,"created_by_id":17,"title_id":19,"M_id":"BanckedDeveloper01","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-08-05 10:45:39] codecanyon.INFO: Api payload: eyJpdiI6IkRSVkVtcHFFTUJXcG1ocUhYc3VVT2c9PSIsInZhbHVlIjoiZFhqbU1HOWVCUm9GK3l1K0lhWTJrQT09IiwibWFjIjoiMTlhZGU5YTI1OGRlNDQ0YmU3Yzc4OGI2ZTZhOWM1ZTNmYzYxN2U1YWYzZWFlOGNlZTUwYmVlNzZjZTA2NmNmZiIsInRhZyI6IiJ9  
+[2024-08-05 10:45:39] codecanyon.INFO: method calling233  
+[2024-08-05 10:45:39] codecanyon.INFO: Decrypted Candidate ID: 233  
+[2024-08-05 10:45:39] codecanyon.INFO: Decrypted Action: Accept  
+[2024-08-20 13:35:25] codecanyon.ERROR: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (SQL: select * from information_schema.tables where table_schema = cipl_rms and table_name = migrations and table_type = 'BASE TABLE') {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (SQL: select * from information_schema.tables where table_schema = cipl_rms and table_name = migrations and table_type = 'BASE TABLE') at D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:760)
+[stacktrace]
+#0 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(899): Illuminate\\Database\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))
+#1 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(879): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'select * from i...', Array, Object(Closure))
+#2 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(723): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'select * from i...', Array, Object(Closure))
+#3 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(422): Illuminate\\Database\\Connection->run('select * from i...', Array, Object(Closure))
+#4 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(392): Illuminate\\Database\\Connection->select('select * from i...', Array, false)
+#5 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\MySqlBuilder.php(44): Illuminate\\Database\\Connection->selectFromWriteConnection('select * from i...', Array)
+#6 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\DatabaseMigrationRepository.php(169): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable('migrations')
+#7 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(695): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#8 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Commands\\MigrateCheckCommand.php(72): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#9 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Commands\\MigrateCheckCommand.php(53): Froiden\\Envato\\Commands\\MigrateCheckCommand->getRanMigrations()
+#10 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Froiden\\Envato\\Commands\\MigrateCheckCommand->handle()
+#11 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#12 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#13 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#14 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(661): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#15 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(183): Illuminate\\Container\\Container->call(Array)
+#16 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Command\\Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Illuminate\\Console\\OutputStyle))
+#17 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(153): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Illuminate\\Console\\OutputStyle))
+#18 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(1078): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#19 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Froiden\\Envato\\Commands\\MigrateCheckCommand), Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#20 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#21 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#22 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(194): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#23 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(336): Illuminate\\Console\\Application->call('migrate:check', Array, NULL)
+#24 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(338): Illuminate\\Foundation\\Console\\Kernel->call('migrate:check')
+#25 D:\\RMS_V2\\RMSAPI_V2\\app\\Http\\Controllers\\Controller.php(45): Illuminate\\Support\\Facades\\Facade::__callStatic('call', Array)
+#26 D:\\RMS_V2\\RMSAPI_V2\\app\\Http\\Controllers\\Controller.php(23): App\\Http\\Controllers\\Controller->checkMigrateStatus()
+#27 [internal function]: App\\Http\\Controllers\\Controller->__construct()
+#28 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(929): ReflectionClass->newInstanceArgs(Array)
+#29 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(770): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#30 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(856): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#31 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(706): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#32 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(841): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#33 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(274): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#34 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1099): Illuminate\\Routing\\Route->getController()
+#35 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1030): Illuminate\\Routing\\Route->controllerMiddleware()
+#36 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(810): Illuminate\\Routing\\Route->gatherMiddleware()
+#37 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(792): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#38 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#39 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#40 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#41 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#42 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#43 D:\\RMS_V2\\RMSAPI_V2\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Middleware\\XSS.php(38): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Froiden\\Envato\\Middleware\\XSS->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 D:\\RMS_V2\\RMSAPI_V2\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#51 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#52 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#53 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#57 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#58 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#59 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#60 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#61 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#62 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#63 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#64 D:\\RMS_V2\\RMSAPI_V2\\public\\index.php(107): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#65 D:\\RMS_V2\\RMSAPI_V2\\server.php(21): require_once('D:\\\\RMS_V2\\\\RMSAP...')
+#66 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it at D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php:70)
+[stacktrace]
+#0 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(46): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\ConnectionFactory.php(184): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#5 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(1181): call_user_func(Object(Closure))
+#6 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(486): Illuminate\\Database\\Connection->getPdo()
+#7 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(414): Illuminate\\Database\\Connection->getPdoForSelect(false)
+#8 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(753): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select * from i...', Array)
+#9 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(899): Illuminate\\Database\\Connection->runQueryCallback('select * from i...', Array, Object(Closure))
+#10 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(879): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'select * from i...', Array, Object(Closure))
+#11 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(723): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'select * from i...', Array, Object(Closure))
+#12 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(422): Illuminate\\Database\\Connection->run('select * from i...', Array, Object(Closure))
+#13 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(392): Illuminate\\Database\\Connection->select('select * from i...', Array, false)
+#14 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\MySqlBuilder.php(44): Illuminate\\Database\\Connection->selectFromWriteConnection('select * from i...', Array)
+#15 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\DatabaseMigrationRepository.php(169): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable('migrations')
+#16 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(695): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#17 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Commands\\MigrateCheckCommand.php(72): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#18 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Commands\\MigrateCheckCommand.php(53): Froiden\\Envato\\Commands\\MigrateCheckCommand->getRanMigrations()
+#19 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Froiden\\Envato\\Commands\\MigrateCheckCommand->handle()
+#20 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#21 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#22 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#23 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(661): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#24 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(183): Illuminate\\Container\\Container->call(Array)
+#25 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Command\\Command.php(326): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Illuminate\\Console\\OutputStyle))
+#26 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(153): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Illuminate\\Console\\OutputStyle))
+#27 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(1078): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#28 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand(Object(Froiden\\Envato\\Commands\\MigrateCheckCommand), Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#29 D:\\RMS_V2\\RMSAPI_V2\\vendor\\symfony\\console\\Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#30 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#31 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(194): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\StringInput), Object(Symfony\\Component\\Console\\Output\\BufferedOutput))
+#32 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(336): Illuminate\\Console\\Application->call('migrate:check', Array, NULL)
+#33 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(338): Illuminate\\Foundation\\Console\\Kernel->call('migrate:check')
+#34 D:\\RMS_V2\\RMSAPI_V2\\app\\Http\\Controllers\\Controller.php(45): Illuminate\\Support\\Facades\\Facade::__callStatic('call', Array)
+#35 D:\\RMS_V2\\RMSAPI_V2\\app\\Http\\Controllers\\Controller.php(23): App\\Http\\Controllers\\Controller->checkMigrateStatus()
+#36 [internal function]: App\\Http\\Controllers\\Controller->__construct()
+#37 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(929): ReflectionClass->newInstanceArgs(Array)
+#38 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(770): Illuminate\\Container\\Container->build('App\\\\Http\\\\Contro...')
+#39 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(856): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Contro...', Array, true)
+#40 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(706): Illuminate\\Foundation\\Application->resolve('App\\\\Http\\\\Contro...', Array)
+#41 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(841): Illuminate\\Container\\Container->make('App\\\\Http\\\\Contro...', Array)
+#42 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(274): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Contro...')
+#43 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1099): Illuminate\\Routing\\Route->getController()
+#44 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(1030): Illuminate\\Routing\\Route->controllerMiddleware()
+#45 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(810): Illuminate\\Routing\\Route->gatherMiddleware()
+#46 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(792): Illuminate\\Routing\\Router->gatherRouteMiddleware(Object(Illuminate\\Routing\\Route))
+#47 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#48 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#49 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#50 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#51 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#52 D:\\RMS_V2\\RMSAPI_V2\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Middleware\\XSS.php(38): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Froiden\\Envato\\Middleware\\XSS->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 D:\\RMS_V2\\RMSAPI_V2\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#59 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#60 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#61 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#62 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#63 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#64 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#65 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#66 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#67 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#68 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#69 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#70 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#71 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#72 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#73 D:\\RMS_V2\\RMSAPI_V2\\public\\index.php(107): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#74 D:\\RMS_V2\\RMSAPI_V2\\server.php(21): require_once('D:\\\\RMS_V2\\\\RMSAP...')
+#75 {main}
+"} 
+[2024-08-20 13:36:14] codecanyon.INFO: User permissions fetched {"user_id":1,"permissions":["add_category","view_category","edit_category","delete_category","add_skills","view_skills","edit_skills","delete_skills","add_candidate","view_candidate","edit_candidate","delete_candidate","add_team","view_team","edit_team","delete_team","add_schedule","view_schedule","edit_schedule","delete_schedule","add_department","view_department","edit_department","delete_department","add_qualification","view_qualification","edit_qualification","delete_qualification","add_certification","view_certification","edit_certification","delete_certification","add_salary","view_salary","edit_salary","delete_salary","add_onboard","view_onboard","edit_onboard","delete_onboard","add_offerletter","view_offerletter","edit_offerletter","delete_offerletter","add_title","view_title","delete_title","edit_title","add_feedback","edit_feedback","view_feedback","delete_feedback","add_project","edit_project","view_project","delete_project","add_mrf","edit_mrf","view_mrf","delete_mrf","add_jd","view_jd","delete_jd","edit_jd","view_document","verify_document","send_link_for_document_upload","view_pcc","verify_pcc","send_link_for_pcc_document_upload","send_offer_letter"]} 
+[2024-08-20 13:43:14] codecanyon.ERROR: The resource owner or authorization server denied the request. {"exception":"[object] (League\\OAuth2\\Server\\Exception\\OAuthServerException(code: 9): The resource owner or authorization server denied the request. at D:\\RMS_V2\\RMSAPI_V2\\vendor\\league\\oauth2-server\\src\\Exception\\OAuthServerException.php:243)
+[stacktrace]
+#0 D:\\RMS_V2\\RMSAPI_V2\\vendor\\league\\oauth2-server\\src\\AuthorizationValidators\\BearerTokenValidator.php(119): League\\OAuth2\\Server\\Exception\\OAuthServerException::accessDenied('Access token co...')
+#1 D:\\RMS_V2\\RMSAPI_V2\\vendor\\league\\oauth2-server\\src\\ResourceServer.php(84): League\\OAuth2\\Server\\AuthorizationValidators\\BearerTokenValidator->validateAuthorization(Object(Nyholm\\Psr7\\ServerRequest))
+#2 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\passport\\src\\Guards\\TokenGuard.php(204): League\\OAuth2\\Server\\ResourceServer->validateAuthenticatedRequest(Object(Nyholm\\Psr7\\ServerRequest))
+#3 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\passport\\src\\Guards\\TokenGuard.php(147): Laravel\\Passport\\Guards\\TokenGuard->getPsrRequestViaBearerToken(Object(Illuminate\\Http\\Request))
+#4 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\passport\\src\\Guards\\TokenGuard.php(110): Laravel\\Passport\\Guards\\TokenGuard->authenticateViaBearerToken(Object(Illuminate\\Http\\Request))
+#5 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\passport\\src\\PassportServiceProvider.php(309): Laravel\\Passport\\Guards\\TokenGuard->user(Object(Illuminate\\Http\\Request))
+#6 [internal function]: Laravel\\Passport\\PassportServiceProvider->Laravel\\Passport\\{closure}(Object(Illuminate\\Http\\Request), NULL)
+#7 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\RequestGuard.php(58): call_user_func(Object(Closure), Object(Illuminate\\Http\\Request), NULL)
+#8 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\GuardHelpers.php(60): Illuminate\\Auth\\RequestGuard->user()
+#9 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Auth\\RequestGuard->check()
+#10 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(42): Illuminate\\Auth\\Middleware\\Authenticate->authenticate(Object(Illuminate\\Http\\Request), Array)
+#11 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#12 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#15 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#16 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#17 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#18 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#19 D:\\RMS_V2\\RMSAPI_V2\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 D:\\RMS_V2\\RMSAPI_V2\\vendor\\froiden\\envato\\src\\Middleware\\XSS.php(38): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Froiden\\Envato\\Middleware\\XSS->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 D:\\RMS_V2\\RMSAPI_V2\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#39 D:\\RMS_V2\\RMSAPI_V2\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#40 D:\\RMS_V2\\RMSAPI_V2\\public\\index.php(107): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#41 D:\\RMS_V2\\RMSAPI_V2\\server.php(21): require_once('D:\\\\RMS_V2\\\\RMSAP...')
+#42 {main}
+"} 
+[2024-09-06 16:38:25] codecanyon.INFO: User permissions fetched {"user_id":1,"permissions":["add_category","view_category","edit_category","delete_category","add_skills","view_skills","edit_skills","delete_skills","add_candidate","view_candidate","edit_candidate","delete_candidate","add_team","view_team","edit_team","delete_team","add_schedule","view_schedule","edit_schedule","delete_schedule","add_department","view_department","edit_department","delete_department","add_qualification","view_qualification","edit_qualification","delete_qualification","add_certification","view_certification","edit_certification","delete_certification","add_salary","view_salary","edit_salary","delete_salary","add_onboard","view_onboard","edit_onboard","delete_onboard","add_offerletter","view_offerletter","edit_offerletter","delete_offerletter","add_title","view_title","delete_title","edit_title","add_feedback","edit_feedback","view_feedback","delete_feedback","add_project","edit_project","view_project","delete_project","add_mrf","edit_mrf","view_mrf","delete_mrf","add_jd","view_jd","delete_jd","edit_jd","view_document","verify_document","send_link_for_document_upload","view_pcc","verify_pcc","send_link_for_pcc_document_upload","send_offer_letter"]} 
+[2024-09-06 17:03:36] codecanyon.INFO: User permissions fetched {"user_id":17,"permissions":["add_category","view_category","edit_category","delete_category","add_skills","view_skills","edit_skills","delete_skills","add_candidate","view_candidate","edit_candidate","delete_candidate","add_team","view_team","edit_team","delete_team","add_schedule","view_schedule","edit_schedule","delete_schedule","add_department","view_department","edit_department","delete_department","add_qualification","view_qualification","edit_qualification","delete_qualification","add_certification","view_certification","edit_certification","delete_certification","add_salary","view_salary","edit_salary","delete_salary","add_onboard","view_onboard","edit_onboard","delete_onboard","add_offerletter","view_offerletter","edit_offerletter","delete_offerletter","add_title","view_title","delete_title","edit_title","add_feedback","edit_feedback","view_feedback","delete_feedback","add_project","edit_project","view_project","delete_project","add_mrf","edit_mrf","view_mrf","delete_mrf","view_document","verify_document","send_link_for_document_upload","view_pcc","verify_pcc","send_link_for_pcc_document_upload","send_offer_letter"]} 
+[2024-09-06 17:03:42] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-06 17:03:42] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-06 17:03:42] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-06 17:03:42] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-06 17:03:54] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-06 17:03:54] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-06 17:03:54] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-06 17:03:54] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-06 17:05:51] codecanyon.INFO: User permissions fetched {"user_id":1,"permissions":["add_category","view_category","edit_category","delete_category","add_skills","view_skills","edit_skills","delete_skills","add_candidate","view_candidate","edit_candidate","delete_candidate","add_team","view_team","edit_team","delete_team","add_schedule","view_schedule","edit_schedule","delete_schedule","add_department","view_department","edit_department","delete_department","add_qualification","view_qualification","edit_qualification","delete_qualification","add_certification","view_certification","edit_certification","delete_certification","add_salary","view_salary","edit_salary","delete_salary","add_onboard","view_onboard","edit_onboard","delete_onboard","add_offerletter","view_offerletter","edit_offerletter","delete_offerletter","add_title","view_title","delete_title","edit_title","add_feedback","edit_feedback","view_feedback","delete_feedback","add_project","edit_project","view_project","delete_project","add_mrf","edit_mrf","view_mrf","delete_mrf","add_jd","view_jd","delete_jd","edit_jd","view_document","verify_document","send_link_for_document_upload","view_pcc","verify_pcc","send_link_for_pcc_document_upload","send_offer_letter"]} 
+[2024-09-08 19:57:42] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 19:57:42] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 19:57:42] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 19:57:42] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 19:57:50] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 19:57:50] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 19:57:50] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 19:57:50] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:01:09] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:01:09] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:01:09] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:01:09] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:02:13] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:02:13] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:02:13] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:02:13] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:02:17] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:02:17] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:02:17] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:02:17] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:07:25] codecanyon.INFO: User permissions fetched {"user_id":17,"permissions":["add_category","view_category","edit_category","delete_category","add_skills","view_skills","edit_skills","delete_skills","add_candidate","view_candidate","edit_candidate","delete_candidate","add_team","view_team","edit_team","delete_team","add_schedule","view_schedule","edit_schedule","delete_schedule","add_department","view_department","edit_department","delete_department","add_qualification","view_qualification","edit_qualification","delete_qualification","add_certification","view_certification","edit_certification","delete_certification","add_salary","view_salary","edit_salary","delete_salary","add_onboard","view_onboard","edit_onboard","delete_onboard","add_offerletter","view_offerletter","edit_offerletter","delete_offerletter","add_title","view_title","delete_title","edit_title","add_feedback","edit_feedback","view_feedback","delete_feedback","add_project","edit_project","view_project","delete_project","add_mrf","edit_mrf","view_mrf","delete_mrf","view_document","verify_document","send_link_for_document_upload","view_pcc","verify_pcc","send_link_for_pcc_document_upload","send_offer_letter"]} 
+[2024-09-08 20:07:43] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:07:43] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:07:43] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:07:43] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:07:46] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:07:46] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:07:46] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:07:46] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:08:54] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:08:54] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:08:54] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:08:54] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:09:49] codecanyon.INFO: JobCategoryController@linkget: Method execution started. {"id":"C24I0001"} 
+[2024-09-08 20:09:49] codecanyon.INFO: JobCategoryController@linkget: ERF list fetched. {"erflist":{"App\\Job":{"id":47,"title":null,"slug":"","company_id":null,"pid":"gemini_04","erf_id":"C24I0001","department_id":4,"job_requirement":null,"recruitment_type":"onsite","recruitment":null,"approved":"yes","billable_type":null,"project_name":"AI.O","work_experience":null,"start_date":"-000001-11-29T18:06:32.000000Z","end_date":"-000001-11-29T18:06:32.000000Z","required_columns":null,"meta_details":null,"section_visibility":null,"created_at":"2024-09-08T14:38:50.000000Z","updated_at":"2024-09-08T14:38:50.000000Z","user_id":17,"note":null,"category_id":3,"jd":null,"budget":"10000000","no_of_possion":10,"target_date":"2024-09-12","requisition_date":null,"project_lead":17,"JobStatus":1,"status":"waiting for approval","department":{"id":4,"name":"Ai","created_at":"2024-06-19T05:40:07.000000Z","updated_at":"2024-06-19T05:43:26.000000Z"},"job_category":{"id":3,"name":"Cloud Technology"}}}} 
+[2024-09-08 20:09:49] codecanyon.INFO: JobCategoryController@linkget: Job recruitment details fetched. {"jobrecruitment":{"Illuminate\\Database\\Eloquent\\Collection":[]}} 
+[2024-09-08 20:09:49] codecanyon.INFO: JobCategoryController@linkget: Data prepared for response. {"data":{"erfgroup":{"App\\Job":{"id":47,"title":null,"slug":"","company_id":null,"pid":"gemini_04","erf_id":"C24I0001","department_id":4,"job_requirement":null,"recruitment_type":"onsite","recruitment":null,"approved":"yes","billable_type":null,"project_name":"AI.O","work_experience":null,"start_date":"-000001-11-29T18:06:32.000000Z","end_date":"-000001-11-29T18:06:32.000000Z","required_columns":null,"meta_details":null,"section_visibility":null,"created_at":"2024-09-08T14:38:50.000000Z","updated_at":"2024-09-08T14:38:50.000000Z","user_id":17,"note":null,"category_id":3,"jd":null,"budget":"10000000","no_of_possion":10,"target_date":"2024-09-12","requisition_date":null,"project_lead":17,"JobStatus":1,"status":"waiting for approval","department":{"id":4,"name":"Ai","created_at":"2024-06-19T05:40:07.000000Z","updated_at":"2024-06-19T05:43:26.000000Z"},"job_category":{"id":3,"name":"Cloud Technology"}}},"jobrecruitment":{"Illuminate\\Database\\Eloquent\\Collection":[]}}} 
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Method execution started. {"id":"C24I0001"} 
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Database transaction started.  
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Job fetched by erf_id. {"job":{"App\\Job":{"id":47,"title":null,"slug":"","company_id":null,"pid":"gemini_04","erf_id":"C24I0001","department_id":4,"job_requirement":null,"recruitment_type":"onsite","recruitment":null,"approved":"yes","billable_type":null,"project_name":"AI.O","work_experience":null,"start_date":"-000001-11-29T18:06:32.000000Z","end_date":"-000001-11-29T18:06:32.000000Z","required_columns":null,"meta_details":null,"section_visibility":null,"created_at":"2024-09-08T14:38:50.000000Z","updated_at":"2024-09-08T14:38:50.000000Z","user_id":17,"note":null,"category_id":3,"jd":null,"budget":"10000000","no_of_possion":10,"target_date":"2024-09-12","requisition_date":null,"project_lead":17,"JobStatus":1,"status":"waiting for approval"}}} 
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Job status and note updated. {"status":"approved","note":"go ahed"} 
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Job saved. {"job":{"App\\Job":{"id":47,"title":null,"slug":"","company_id":null,"pid":"gemini_04","erf_id":"C24I0001","department_id":4,"job_requirement":null,"recruitment_type":"onsite","recruitment":null,"approved":"yes","billable_type":null,"project_name":"AI.O","work_experience":null,"start_date":"-000001-11-29T18:06:32.000000Z","end_date":"-000001-11-29T18:06:32.000000Z","required_columns":null,"meta_details":null,"section_visibility":null,"created_at":"2024-09-08T14:38:50.000000Z","updated_at":"2024-09-08T14:40:08.000000Z","user_id":17,"note":"go ahed","category_id":3,"jd":null,"budget":"10000000","no_of_possion":10,"target_date":"2024-09-12","requisition_date":null,"project_lead":17,"JobStatus":1,"status":"approved"}}} 
+[2024-09-08 20:10:08] codecanyon.INFO: JobCategoryController@approved_by: Database transaction committed.  
+[2024-09-08 20:10:28] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:10:28] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:10:28] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:10:28] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:10:41] codecanyon.INFO: Attempting to fetch job descriptions.  
+[2024-09-08 20:10:41] codecanyon.INFO: Fetching all job descriptions.  
+[2024-09-08 20:10:41] codecanyon.INFO: Job descriptions retrieved successfully.  
+[2024-09-08 20:10:44] codecanyon.INFO: JobCategoryController@index: Method execution started.  
+[2024-09-08 20:10:44] codecanyon.INFO: JobCategoryController@index: Attempting to retrieve all job categories.  
+[2024-09-08 20:10:44] codecanyon.INFO: JobCategoryController@index: Job categories retrieved successfully. {"categories":{"Illuminate\\Database\\Eloquent\\Collection":[{"id":3,"name":"Cloud Technology"},{"id":1,"name":"Information Technology"},{"id":6,"name":"IT"},{"id":2,"name":"Marketing"},{"id":4,"name":"Network"}]}} 
+[2024-09-08 20:10:44] codecanyon.INFO: JobCategoryController@index: Job categories found, preparing success response.  
+[2024-09-08 20:10:45] codecanyon.INFO: Fetching all qualifications from the database.  
+[2024-09-08 20:10:45] codecanyon.INFO: Qualifications retrieved successfully. {"count":4} 
+[2024-09-08 20:10:46] codecanyon.INFO: CertificationController@index: Method execution started.  
+[2024-09-08 20:10:46] codecanyon.INFO: CertificationController@index: Fetching certification categories with skills.  
+[2024-09-08 20:10:46] codecanyon.INFO: CertificationController@index: Certification categories found. {"count":2} 
+[2024-09-08 20:10:46] codecanyon.INFO: Accessing index method of ProjectTitleController  
+[2024-09-08 20:10:46] codecanyon.INFO: Retrieved 10 project titles  
+[2024-09-08 20:10:46] codecanyon.INFO: Successfully fetched project titles  
+[2024-09-08 20:13:37] codecanyon.INFO: Starting MRF approval process {"encrypted_id":"eyJpdiI6IlNGL1pZSTBjZUtZbHd1ZDBRVHBoRFE9PSIsInZhbHVlIjoieXFyZHA4UkdRZG5CeTlwem1TZ0JWdz09IiwibWFjIjoiZjI5ZDZlYzIzZjczOGJjNGRhZWUyNjgyMTIxZTFiNWZiZDI1Zjc0ZjAxYzg5NzU3NGU2YTQ0MmJhMDFmYWZmNyIsInRhZyI6IiJ9"} 
+[2024-09-08 20:13:37] codecanyon.INFO: Decrypted ID {"decrypted_id":"51"} 
+[2024-09-08 20:13:37] codecanyon.INFO: JobRecruitment found {"jobRecruitment":{"App\\Jobrecruitment":{"id":51,"job_id":47,"category_id":3,"qualification_id":6,"degination":"Developer","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12222","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-09-08T14:43:00.000000Z","updated_at":"2024-09-08T14:43:00.000000Z","location":"noida","start_date":"2024-09-25","end_date":"2024-09-11","jd_id":1,"total_experience":12,"total_positions":21,"created_by_id":17,"title_id":9,"M_id":"mrf101","MrfStatus":1,"recruitment_type":"onsite"}}} 
+[2024-09-08 20:13:37] codecanyon.INFO: MRF approved successfully {"jobRecruitment":{"App\\Jobrecruitment":{"id":51,"job_id":47,"category_id":3,"qualification_id":6,"degination":"Developer","level":"L1","project_manager":"17","reporting_team":"17","position_budgeted":"12222","relevent_exp":"12","responsibility":"12","prerequisite":null,"anycertification_id":null,"scopeofwork":null,"user_id":"17","assign_id":null,"created_at":"2024-09-08T14:43:00.000000Z","updated_at":"2024-09-08T14:43:37.000000Z","location":"noida","start_date":"2024-09-25","end_date":"2024-09-11","jd_id":1,"total_experience":12,"total_positions":21,"created_by_id":17,"title_id":9,"M_id":"mrf101","MrfStatus":3,"recruitment_type":"onsite"}}} 
+[2024-09-08 20:13:52] codecanyon.INFO: Fetching all qualifications from the database.  
+[2024-09-08 20:13:52] codecanyon.INFO: Qualifications retrieved successfully. {"count":4} 
